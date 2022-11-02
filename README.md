@@ -12,15 +12,15 @@
 
 ## Live Demo
 
-[Link](https://grand-druid-30c8d4.netlify.app/)
+[Link]()
 
 ## Getting Started
 
 ### To have a copy of this project running on your local machine, follow these commands:
 
 - Clone this repo to your local machine
-  - `https://github.com/MrOmachi/Book-Store.git`
-  - Open the folder "Math-magician and run `npm install` to install all necesary scripts,
+  - `https://github.com/AshwinCarvalho999/Books-Store.git`
+  - Open the folder "Books-Store" and run `npm install` to install all necesary scripts,
   - Run from your termminal, `npm start` to open the project in your browser.
 
 **This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).**
@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 - `npx create-react-app todo-list-react`
 
-**cd into math-magician folder, then run from your terminal:**
+**cd into Books-Store folder, then run from your terminal:**
 
 - `npm start`
 
@@ -59,13 +59,13 @@ To get a local copy up and running follow these simple example steps.
 
 > coming soon :smile:
 
-## Authors
+## Author
 
-👤 _Omachi John_
+👤 **Ashwin Carvalho**
 
-- GitHub: [@githubhandle](https://github.com/MrOmachi)
-- Twitter: [@twitterhandle](https://twitter.com/Mr_Omachi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/mwlite/in/john-omachi-00446210b)
+GitHub: [GitHub](https://github.com/AshwinCarvalho999)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashwin-carvalho-5426701b1/)
+Twitter: [twitter](https://twitter.com)
 
 ## 🤝 Contributing
 
